@@ -1,0 +1,20 @@
+.book {
+    border-bottom: 1px solid gray;
+}
+
+.book:hover {
+    cursor: pointer;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 65%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.info {
+    padding: 10px;
+}
